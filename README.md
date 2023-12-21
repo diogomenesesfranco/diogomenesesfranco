@@ -19,10 +19,6 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
  
-### Estou Aprendendo:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-
-
 ##
 <!-- Contato-->
 <h3 align = "left "> Conecte-se a mim: </h3>
